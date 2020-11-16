@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SlideShowApk</string>
+    <string name="TitleShowActivity">SlideShow</string>
+    <string name="photo_not_selected">Фото не выбраны</string>
+    <string name="title_main_toolbar">SlideShow</string>
+    <string name="default_name_title_toolbar">Какое-то название</string>
+    <string name="load_photo">Загрузить фото</string>
+    <string name="select_timer">Укажите таймер (c)</string>
+    <string name="field_for_timer">Поле для ввода таймера</string>
+    <string name="swipe">Свайп</string>
+</resources>
